@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<Resources>
+  <Level>
+         <map tag="1">
+		           <brick
+                     position="900"
+                      number = "3"
+                      index = "0" />
+				   <Coin 
+					   posX="1030" 
+					   posY="155"/>
+					   
+                   <brick
+                     position="1300"
+                      number = "3"
+                      index = "1" />
+					  
+					<Coin 
+					   posX="1430" 
+					   posY="45"/>
+					
+                   <brick
+                     position="1750"
+                      number = "5"
+                      index = "0" />	
+					  
+					<enemy
+                     posX="1750"
+                     posY="120"
+                     vel="2"           
+                     run_length = "450"/>
+					  
+					<Coin 
+					   posX="1870" 
+					   posY="155"/>
+					   
+					<Coin 
+					   posX="2080" 
+					   posY="155"/>
+					  
+                   <brick
+                     position="2350"
+                      number = "3"
+                      index = "0" />	
+                   
+				   <Artefact
+                     posX = "2700"
+                     posY = "100"
+                     image = "crown.png"
+			         frames = "3"
+				     value = "200" />
+					   
+				   <Spike 
+				     posX="2700" 
+					 posY="310" />
+					   
+		           <brick
+                     position="2800"
+                      number = "3"
+                      index = "0" />
+                   
+				   <brick
+                     position="3220"
+                      number = "3"
+                      index = "1" />
+				
+				   <Spike 
+				     posX="3370" 
+					 posY="310" />  
+                   <Spike 
+				     posX="3440" 
+					 posY="310" />
+					 <Spike 
+				     posX="3510" 
+					 posY="310" />  
+                   <Spike 
+				     posX="3580" 
+					 posY="310" />
+				   <Spike 
+				     posX="3650" 
+					 posY="310" />  
+                   <Spike 
+				     posX="3720" 
+					 posY="310" />
+					 
+				   <Coin 
+					   posX="3590" 
+					   posY="50"/>
+				   
+				   <brick
+                     position="3690"
+                      number = "3"
+                      index = "1" />
+                   
+				   <brick
+                     position="4100"
+                      number = "5"
+                      index = "0" />
+                   
+				   <enemy
+                     posX="4100"
+                     posY="120"
+                     vel="2"           
+                     run_length = "450"/>
+				   
+				   <Artefact
+                     posX = "4320"
+                     posY = "100"
+                     image = "eye.png"
+			         frames = "3"
+				     value = "250" />
+				   
+				   <brick
+                     position="4730"
+                      number = "3"
+                      index = "1" />
+					  
+				   <Spike 
+				     posX="4780" 
+					 posY="310" />  
+                   
+				   <Artefact
+                     posX = "5070"
+                     posY = "200"
+                     image = "goblet.png"
+			         frames = "5"
+				     value = "300" />
+				   
+				   <brick
+                     position="5200"
+                      number = "3"
+                      index = "1" />
+					  
+                   <Spike 
+				     posX="5280" 
+					 posY="310" /> 
+					  
+				   <Exit position="6000"></Exit></map>
+    </Level>
+  </Resources>
