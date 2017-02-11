@@ -20,7 +20,7 @@ You have three lives in the game. Try to pick up maximum coins and artefacts on 
 
 The controls are very simple : press any key and Alex will jump 
 
-Enjoy !!!!
+Enjoy !!!
 
 
 
